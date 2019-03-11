@@ -1,4 +1,5 @@
 package domain;
+// test
 
 public class Attribute extends RelationalComponent {
 	private String name;
